@@ -2,6 +2,6 @@
 Capstone Project with the Sheridan Dev Team "Embiggened Cromulence" and Borgo Contract Seating
 
 
-# sprint1 Demo
+# Sprint1 Demo Video
 ![](sprint1.gif)
 
