@@ -5,4 +5,10 @@ Capstone Project with the Sheridan Dev Team "Embiggened Cromulence" and Borgo Co
 
 
 # Main page
-![Alt text](https://github.com/khaitov-prog/CapstoneBorgo/main.PNG)
+![Screenshot](main.PNG)
+
+# Choose Role page
+![Screenshot](role.PNG)
+
+# Login page
+![Screenshot](login.PNG)
