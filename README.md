@@ -3,9 +3,6 @@ Capstone Project with the Sheridan Dev Team "Embiggened Cromulence" and Borgo Co
 
 
 
-# Sprint1
-[![Watch the video](login.PNG)](sprint1.mp4)
-
 
 # Main page
 ![Screenshot](main.PNG)
